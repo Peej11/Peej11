@@ -1,4 +1,4 @@
-## Homelab hobbyist enjoying all things Kubernetes
+# [Homelab](https://github.com/Peej11/Homelab) hobbyist enjoying all things Kubernetes
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
