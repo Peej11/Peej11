@@ -1,24 +1,24 @@
 # [Homelab](https://github.com/Peej11/Homelab) hobbyist enjoying all things Kubernetes
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1534 commits        █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-🌆 Daytime                2350 commits        ████████░░░░░░░░░░░░░░░░░   31.15 % 
-🌃 Evening                3441 commits        ███████████░░░░░░░░░░░░░░   45.61 % 
-🌙 Night                  219 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+🌞 Morning                1246 commits        █████░░░░░░░░░░░░░░░░░░░░   19.56 % 
+🌆 Daytime                1934 commits        ████████░░░░░░░░░░░░░░░░░   30.36 % 
+🌃 Evening                2981 commits        ████████████░░░░░░░░░░░░░   46.79 % 
+🌙 Night                  210 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1359 commits        █████░░░░░░░░░░░░░░░░░░░░   18.01 % 
-Tuesday                  793 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.51 % 
-Wednesday                920 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-Thursday                 778 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
-Friday                   1360 commits        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Saturday                 1146 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
-Sunday                   1188 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+Monday                   1158 commits        █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Tuesday                  613 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Wednesday                786 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
+Thursday                 666 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Friday                   1156 commits        █████░░░░░░░░░░░░░░░░░░░░   18.14 % 
+Saturday                 1005 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Sunday                   987 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
 ```
 
 
