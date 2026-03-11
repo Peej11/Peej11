@@ -1,4 +1,4 @@
-# [Homelab](https://github.com/Peej11/Homelab) hobbyist enjoying all things Kubernetes
+# [Homelab](https://github.com/Peej11/Homelab) & Kubernetes Enthusiast
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
