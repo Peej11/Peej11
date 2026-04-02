@@ -1,24 +1,24 @@
 # [Homelab](https://github.com/Peej11/Homelab) & Kubernetes Enthusiast
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1635 commits        █████░░░░░░░░░░░░░░░░░░░░   20.16 % 
-🌆 Daytime                2378 commits        ███████░░░░░░░░░░░░░░░░░░   29.32 % 
-🌃 Evening                3887 commits        ████████████░░░░░░░░░░░░░   47.93 % 
-🌙 Night                  210 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+🌞 Morning                2305 commits        █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
+🌆 Daytime                3489 commits        ████████░░░░░░░░░░░░░░░░░   31.19 % 
+🌃 Evening                5164 commits        ████████████░░░░░░░░░░░░░   46.16 % 
+🌙 Night                  228 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
-📅 **I'm Most Productive on Friday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1396 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Tuesday                  625 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-Wednesday                978 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.06 % 
-Thursday                 961 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
-Friday                   1561 commits        █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Saturday                 1053 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
-Sunday                   1536 commits        █████░░░░░░░░░░░░░░░░░░░░   18.94 % 
+Monday                   1876 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Tuesday                  1058 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
+Wednesday                1328 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.87 % 
+Thursday                 1398 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+Friday                   2047 commits        █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
+Saturday                 1399 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+Sunday                   2080 commits        █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
 ```
 
 
