@@ -1,24 +1,24 @@
 # [Homelab](https://github.com/Peej11/Homelab) & Kubernetes Enthusiast
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1590 commits        █████░░░░░░░░░░░░░░░░░░░░   18.96 % 
-🌆 Daytime                2434 commits        ███████░░░░░░░░░░░░░░░░░░   29.03 % 
-🌃 Evening                4147 commits        ████████████░░░░░░░░░░░░░   49.46 % 
-🌙 Night                  213 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+🌞 Morning                2490 commits        █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+🌆 Daytime                3938 commits        ████████░░░░░░░░░░░░░░░░░   30.71 % 
+🌃 Evening                6163 commits        ████████████░░░░░░░░░░░░░   48.05 % 
+🌙 Night                  234 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1399 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-Tuesday                  725 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Wednesday                975 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.63 % 
-Thursday                 950 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.33 % 
-Friday                   1800 commits        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
-Saturday                 1114 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
-Sunday                   1421 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Monday                   2093 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
+Tuesday                  1327 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
+Wednesday                1502 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.71 % 
+Thursday                 1636 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Friday                   2527 commits        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Saturday                 1596 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.44 % 
+Sunday                   2144 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
 ```
 
 
