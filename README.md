@@ -1,50 +1,48 @@
 # [Homelab](https://github.com/Peej11/Homelab) & Kubernetes Enthusiast
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-76%20hrs%2050%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2903 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-🌆 Daytime                4701 commits        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-🌃 Evening                9388 commits        ██████████████░░░░░░░░░░░   54.51 % 
-🌙 Night                  231 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+🌞 Morning                2424 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+🌆 Daytime                3852 commits        ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+🌃 Evening                8139 commits        ██████████████░░░░░░░░░░░   55.60 % 
+🌙 Night                  223 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   2170 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-Tuesday                  1782 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.35 % 
-Wednesday                3397 commits        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
-Thursday                 2123 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
-Friday                   3493 commits        █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
-Saturday                 1894 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Sunday                   2364 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Monday                   1878 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Tuesday                  1292 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Wednesday                3021 commits        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+Thursday                 1735 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.85 % 
+Friday                   3079 commits        █████░░░░░░░░░░░░░░░░░░░░   21.03 % 
+Saturday                 1557 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+Sunday                   2076 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 41 mins (53.04%)
+⏱ AI Coding Time: 7 hrs 57 mins (58.8%)
 
-✍️ 784 lines written by AI, 126 lines written by hand (86.15% AI-written)
+✍️ 1,427 lines written by AI, 210 lines written by hand (87.17% AI-written)
 
-🔤 26,670,388 Input Tokens, 136,901 Output Tokens
+🔤 30,447,767 Input Tokens, 217,063 Output Tokens
 
-💵 $118.51 Estimated AI Cost This Week
+💵 $151.72 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 77 AI Prompts
+🧠 9 AI Sessions, 197 AI Prompts
 
-Opus                     742 lines           ███████████████████████░░   91.83 % 
-Claude                   66 lines            ██░░░░░░░░░░░░░░░░░░░░░░░   08.17 % 
+Opus                     1,451 lines         █████████████████████████   99.93 % 
+Claude                   1 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 86.15% of written lines came from AI
-📄 Detailed Prompter — average 975 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 20.94% of changed lines were hand-edited
+🤖 AI-Driven — 87.17% of written lines came from AI
+📄 Detailed Prompter — average 1,380 characters per prompt
+🔁 Iterative Prompter — average 22 prompts per session
+🚀 High AI Trust — 20.26% of changed lines were hand-edited
 ```
 
 
