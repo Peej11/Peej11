@@ -1,33 +1,33 @@
 # [Homelab](https://github.com/Peej11/Homelab) & Kubernetes Enthusiast
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%205%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-85%20hrs%2042%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2084 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-🌆 Daytime                3128 commits        ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
-🌃 Evening                7362 commits        ██████████████░░░░░░░░░░░   57.57 % 
-🌙 Night                  215 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+🌞 Morning                2290 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+🌆 Daytime                3524 commits        ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
+🌃 Evening                7946 commits        ██████████████░░░░░░░░░░░   56.84 % 
+🌙 Night                  219 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   1657 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
-Tuesday                  985 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
-Wednesday                2827 commits        ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Thursday                 1373 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.74 % 
-Friday                   2770 commits        █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-Saturday                 1316 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Sunday                   1861 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Monday                   1786 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Tuesday                  1145 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Wednesday                3026 commits        █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Thursday                 1575 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Friday                   3001 commits        █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Saturday                 1441 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.31 % 
+Sunday                   2005 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
 ```
 
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 59 mins (56.92%)
+⏱ AI Coding Time: 9 hrs 59 mins (58.23%)
 
 ✍️ 1,598 lines written by AI, 192 lines written by hand (89.27% AI-written)
 
