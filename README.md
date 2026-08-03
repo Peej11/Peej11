@@ -1,26 +1,24 @@
 # [Homelab](https://github.com/Peej11/Homelab) & Kubernetes Enthusiast
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2010%20mins-blue?style=flat)
-
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                2477 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-🌆 Daytime                3902 commits        ██████░░░░░░░░░░░░░░░░░░░   25.99 % 
-🌃 Evening                8412 commits        ██████████████░░░░░░░░░░░   56.03 % 
-🌙 Night                  223 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+🌞 Morning                1878 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+🌆 Daytime                3323 commits        ████████░░░░░░░░░░░░░░░░░   31.83 % 
+🌃 Evening                5016 commits        ████████████░░░░░░░░░░░░░   48.05 % 
+🌙 Night                  223 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   1903 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.67 % 
-Tuesday                  1305 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Wednesday                3164 commits        █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-Thursday                 1763 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-Friday                   3185 commits        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-Saturday                 1566 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-Sunday                   2128 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Monday                   1547 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Tuesday                  1309 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Wednesday                1278 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Thursday                 1592 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
+Friday                   1787 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Saturday                 1498 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+Sunday                   1429 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
 ```
 
 
