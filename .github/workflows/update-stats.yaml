@@ -15,6 +15,7 @@ jobs:
           BADGE_STYLE: "for-the-badge"
           COMMIT_MESSAGE: "docs: wakatime update :robot:"
           GH_TOKEN: ${{ secrets.GH_TOKEN  }}
+          SHOW_AI_CODE_TIME: "False"
           SHOW_DAYS_OF_WEEK: "True"
           SHOW_EDITORS: "False"
           SHOW_LANGUAGE: "False"
